@@ -1,0 +1,3 @@
+Ödeme başarılı: Miktar - 100.0
+Ödeme başarılı: Miktar - 150.0
+Ödeme başarılı: Miktar - 150.0
